@@ -1,7 +1,7 @@
 ---
 applications:
 - name:gitdemoO
-path: gitdemo0/target/gitdemo0-0.0.1-SNAPSHOT.war
+path: gitdemoO/target/gitdemoO-0.0.1-SNAPSHOT.war
 random-route: true
 memory: 1024M
 buildpacks:
